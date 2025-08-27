@@ -375,21 +375,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 - Update documentation as needed
 - Be respectful and collaborative
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 💬 Support & Community
-
-- 🐛 **Report Issues:** [GitHub Issues](https://github.com/Parvezkhan0/subscription-expense-tracker/issues)
-- 💡 **Feature Requests:** [GitHub Discussions](https://github.com/Parvezkhan0/subscription-expense-tracker/discussions)
-- 📧 **Email Support:** [your-email@example.com](mailto:your-email@example.com)
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who have helped shape this project
-- Inspired by the need for better subscription management tools
-- Built with love for the open-source community
 
 ---
 
