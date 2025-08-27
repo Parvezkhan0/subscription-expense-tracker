@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env and local settings
+.env
+venv/
+.env.*
+
+# Docker
+*.log
+*.pid
+
+# Alembic
+alembic/versions/
+
+# VSCode or IDE settings
+.vscode/
+.idea/

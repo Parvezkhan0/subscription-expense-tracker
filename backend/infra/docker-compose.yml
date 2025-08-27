@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ..
+    container_name: subtrack-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ..:/app
+    env_file:
+      - ../.env
+    depends_on:
+      - redis
+
+  redis:
+    image: redis:alpine
+    container_name: subtrack-redis

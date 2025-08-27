@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]        # For ASGI server (includes standard extras)
+gunicorn                 # For production WSGI server
+sqlalchemy               # ORM
+psycopg2-binary          # PostgreSQL driver
+alembic                  # DB migrations
+
+pydantic                 # Data validation
+email-validator          # Used with Pydantic for email validation
+
+python-multipart         # For handling form data (e.g., file uploads)
+passlib[bcrypt]          # For password hashing
+python-jose[cryptography]
+
+python-dotenv            # To load environment variables from .env
+pydantic-settings
+celery

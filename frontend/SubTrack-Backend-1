@@ -1,0 +1,10 @@
+<script>start("/Users/divya/Desktop/SubTrack-Frontend/SubTrack-Backend/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,384,"384 B",1753987414,"8/1/25, 12:13:34 AM");</script>
+<script>addRow("app","app",1,416,"416 B",1753987414,"8/1/25, 12:13:34 AM");</script>
+<script>addRow("infra","infra",1,256,"256 B",1753987414,"8/1/25, 12:13:34 AM");</script>
+<script>addRow(".gitignore",".gitignore",0,165,"165 B",1753987414,"8/1/25, 12:13:34 AM");</script>
+<script>addRow("Dockerfile","Dockerfile",0,254,"254 B",1753987414,"8/1/25, 12:13:34 AM");</script>
+<script>addRow("gunicorn_conf.py","gunicorn_conf.py",0,273,"273 B",1753987414,"8/1/25, 12:13:34 AM");</script>
+<script>addRow("README.md","README.md",0,4161,"4.1 kB",1753987414,"8/1/25, 12:13:34 AM");</script>
+<script>addRow("requirements.txt","requirements.txt",0,598,"598 B",1753987414,"8/1/25, 12:13:34 AM");</script>

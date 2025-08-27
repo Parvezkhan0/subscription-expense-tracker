@@ -1,0 +1,6 @@
+<!-- src/assets/logo.svg -->
+<svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="10" fill="#4F46E5"/>
+    <text x="12" y="16" font-size="10" fill="white" text-anchor="middle" font-family="Arial">S</text>
+  </svg>
+  
